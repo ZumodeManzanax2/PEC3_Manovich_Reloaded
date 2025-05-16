@@ -83,3 +83,4 @@ Dejando que “el software tome el mando” pero sin perder nuestra creatividad 
 [Cortana](https://es.wikipedia.org/wiki/Microsoft_Cortana  "Cortana")
 [Alexa](https://developer.amazon.com/es-ES/alexa  "Alexa")
 [Asistente de Google](https://assistant.google.com/intl/es_es/  "Asistente de Google")
+[Manovich, L. (2013). El software toma el mando.](https://www.amazon.es/software-toma-mando-UOCPress-Comunicación-ebook/dp/B00Q6QO2TW "Manovich, L. (2013). El software toma el mando.")
